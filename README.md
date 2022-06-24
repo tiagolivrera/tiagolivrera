@@ -22,11 +22,13 @@
   <img align="center" alt="Tiago-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
   
+  <hr style="width:50%;text-align:left;margin-left:0">
+  
   <div> 
     
   <a href = "mailto:tiago.olifreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thyagofreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tiagolivrera/tiagolivrera/blob/output/github-contribution-grid-snake.svg)
  
 </div>

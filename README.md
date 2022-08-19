@@ -2,7 +2,7 @@
 #### Seja bem-vindo (a)
 
 - 🔭 Buscando a minha primeira oportunidade de emprego
-- 🌱 Estudando atualmente C#, Java com Spring Boot e Flutter para mobile
+- 🌱 Estudando atualmente C#, Java com Spring Boot e Ionic/Angular para aplicações web e mobile
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -19,7 +19,8 @@
   <img align="center" alt="Tiago-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Tiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Tiago-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> 
-  <img align="center" alt="Tiago-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Tiago-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" alt="Tiago-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
   
   <hr style="width:50%;text-align:left;margin-left:0">

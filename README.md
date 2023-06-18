@@ -2,7 +2,7 @@
 #### Seja bem-vindo (a)
 
 - 🔭 Buscando a minha primeira oportunidade de emprego
-- 🌱 Estudando atualmente C#, Java com Spring Boot e Ionic/Angular para aplicações web e mobile
+- 🌱 Estudando atualmente Java com Spring Boot e aplicações REST API
 - 😄 Pronomes: ele/dele
 
 <div align="center">

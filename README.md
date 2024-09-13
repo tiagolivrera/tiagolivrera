@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Thyago Freitas!
 #### Seja bem-vindo (a)
 
-- 🔭 Buscando a minha primeira oportunidade de emprego
-- 🌱 Estudando atualmente Java com Spring Boot e aplicações REST API
-- 😄 Pronomes: ele/dele
+-    Bacharel em Engenharia da Computação
+- 🔭 Engenheiro Pesquisador na unidade Embrapii/CEAR da UFPB
+- 🌱 Mestrando pelo Programa de Pós-Graduação em Informática (CI/UFPB)
+- 😄 Pesquisando atualmente sobre aplicações da teoria do caos e sistemas imunológicos artificiais na detecção de falhas em drones.
+-    *Machine Learning Analyst* e Desenvolvedor Web Frontend NextJS
 
 <div align="center">
   <a href="https://github.com/tiagolivrera">

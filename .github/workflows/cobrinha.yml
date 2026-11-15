@@ -13,6 +13,21 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Stats cards (before the snake: snk runs in Docker as root and makes dist/ unwritable)
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=tiagolivrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+          path: dist/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=tiagolivrera&layout=compact&langs_count=7&theme=dracula
+          path: dist/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
@@ -22,21 +37,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Stats cards
-      - uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=tiagolivrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=tiagolivrera&layout=compact&langs_count=7&theme=dracula
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
